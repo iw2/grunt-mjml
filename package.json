@@ -36,6 +36,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "mjml": "^2.0.3"
+    "mjml": "git@github.com:iw2/mjml.git"
   }
 }
